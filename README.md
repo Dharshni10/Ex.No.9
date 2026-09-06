@@ -11,7 +11,7 @@ To demonstrate text-to-video prompt engineering techniques to reproduce a target
 ## Video Selection & Reproduction Case Study
 
 
-https://github.com/user-attachments/assets/6a20f2ec-8f23-4423-9a67-50c3afa21742
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/726a0c05-857b-49db-9586-48b7fb13cd91" />
 
 
 ### Video 1: Futuristic Metro Station at Night
